@@ -1,6 +1,7 @@
 package reversed_integer;
 
 /**
+ * 数字倒置
  * created by hongrm on 2018/3/29 21:05
  */
 public class Reversed_Integer {
